@@ -1,3 +1,5 @@
+# [ NOTE: This is the Research repo keeping Patra research separate from the deployable system]
+
 # Patra Knowledge Base
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
